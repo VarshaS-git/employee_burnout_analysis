@@ -36,6 +36,6 @@ Tech Stack
   - Scikit-learn
  
 Results :
-Model Accuracy: 91%
-Best K value: Tuned via grid search
-Key Insight: Mental fatigue and lack of WFH setup were highly correlated with burnout.
+- Model Accuracy: 91%
+- Best K value: Tuned via grid search
+- Key Insight: Mental fatigue and lack of WFH setup were highly correlated with burnout.
